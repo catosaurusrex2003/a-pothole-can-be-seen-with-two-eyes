@@ -1,0 +1,12 @@
+[submodule "BUTTER-data-collection-backend"]
+	path = BUTTER-data-collection-backend
+	url = https://github.com/catosaurusrex2003/BUTTER-data-collection-backend
+[submodule "BUTTER-data-collection-device"]
+	path = BUTTER-data-collection-device
+	url = https://github.com/catosaurusrex2003/BUTTER-data-collection-device
+[submodule "route-navigation-algo"]
+	path = route-navigation-algo
+	url = https://github.com/catosaurusrex2003/route-navigation-algo
+[submodule "buttery_ml"]
+	path = buttery_ml
+	url = https://github.com/savioratharv/buttery_ml
