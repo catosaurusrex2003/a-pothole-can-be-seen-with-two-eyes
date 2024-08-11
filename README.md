@@ -108,7 +108,8 @@ Key Features include:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### System Design
-![ipd flow](https://github.com/user-attachments/assets/aebcc6d7-b94a-48af-a5ae-c9314727aa03)
+![ipd flow(1)](https://github.com/user-attachments/assets/cbd95e35-fb29-4245-97a3-586198f3c709)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
