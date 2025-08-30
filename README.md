@@ -19,7 +19,7 @@
   <p align="center">
     Effective Road Quality Mapping and Navigation
     <br />
-    <a href="https://www.researchsquare.com/article/rs-4262204/latest"><strong>View the Paper »</strong></a>
+    <a href="https://www.researchgate.net/publication/390634819_A_pothole_can_be_seen_with_two_eyes_an_ensemble_approach_to_pothole_detection"><strong>View the Paper »</strong></a>
     <br />
     <br />
     <a href="https://github.com/catosaurusrex2003/butter/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
